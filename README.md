@@ -74,6 +74,7 @@ https://github.com/akibsayyed/safeseven
 # Forensics
 https://forensics.spreitzenbarth.de/
 https://5h4rrk.github.io/posts/
+https://www.sweetscape.com
 
 # Bypass anti-virus
 https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
