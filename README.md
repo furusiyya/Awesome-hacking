@@ -1,4 +1,4 @@
-# Diary
+# Awesome list of resources to learn hacking
 
 # How to become hacker
 http://www.catb.org/esr/faqs/hacker-howto.html
@@ -49,8 +49,6 @@ http://inventwithpython.com/
 http://www.fuzzysecurity.com/tutorials/16.html
 https://github.com/superkojiman/rfishell
 
-
-
 # Password Construction
 
 City
@@ -70,7 +68,12 @@ https://github.com/huntergregal/mimipenguin
 https://0x00sec.org/t/kernel-rootkits-getting-your-hands-dirty/1485
 
 # Mobile Hacking
+https://forensics.spreitzenbarth.de/
 https://github.com/akibsayyed/safeseven
+
+# Forensics
+https://forensics.spreitzenbarth.de/
+https://5h4rrk.github.io/posts/
 
 # Bypass anti-virus
 https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
