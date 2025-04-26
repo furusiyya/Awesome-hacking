@@ -6,6 +6,10 @@ http://www.catb.org/esr/faqs/hacker-howto.html
 # Books for hackers
 https://www.defcon.org/html/links/book-list.html
 
+# Hex Editors
+https://imhex.werwolv.net/
+https://www.sweetscape.com
+
 # Hacking News
 https://www.2600.com/
 https://news.ycombinator.com/newsn
@@ -74,7 +78,6 @@ https://github.com/akibsayyed/safeseven
 # Forensics
 https://forensics.spreitzenbarth.de/
 https://5h4rrk.github.io/posts/
-https://www.sweetscape.com
 
 # Bypass anti-virus
 https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
